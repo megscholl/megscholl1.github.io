@@ -6,6 +6,7 @@ COMPLETE:
 
 header {
  text-align: center;
+ background-color: white;
  color: rgb(17, 150, 194);
  border: dotted rgba(112, 49, 128, 0.925) 3px;
  padding: 2em;
@@ -16,6 +17,7 @@ nav {
     text-decoration: underline;
     text-decoration-color: black;
     font-family: sans-serif;
+    font-size: 16px;
 }
 
 
@@ -27,4 +29,18 @@ nav {
 .main-photo {
     display: block;
     text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    display: -webkit-flex;
+    width: 100%;
+}
+
+.flex-section {
+
+}
+
+.flex-aside {
+    
 }
