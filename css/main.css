@@ -27,6 +27,7 @@ main {
 /* Photographs */
 
 .main-photo {
+    display: block;
     text-align: center;
 }
 
