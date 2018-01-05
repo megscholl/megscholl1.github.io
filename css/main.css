@@ -9,7 +9,6 @@ header {
  background-color: white;
  color: rgb(17, 150, 194);
  border: dotted rgba(112, 49, 128, 0.925) 3px;
- padding: 2em;
 }
 
 nav {
@@ -20,6 +19,12 @@ nav {
     font-size: 16px;
 }
 
+footer {
+    background-color: bisque;
+    padding: 1em;
+    text-align: center;
+    font-size: small;
+}
 
 /* DIV CLASSES */
 .container {
@@ -41,6 +46,6 @@ nav {
 
 }
 
-.flex-aside {
-    
+.flex-item {
+    margin: 1em;
 }
