@@ -1,3 +1,9 @@
+/* megscholl1.github.io 
+START: FIRST PROJECT JANUARY 4, 2018
+COMPLETE: 
+
+*/
+
 header {
  text-align: center;
  color: rgb(17, 150, 194);
@@ -11,6 +17,7 @@ nav {
     color: grey;
     text-decoration: underline;
     text-decoration-color: black;
+    font-family: sans-serif;
 }
 
 main {
@@ -21,4 +28,10 @@ section {
 
 }
 
+aside {
 
+}
+
+a {
+    
+}
